@@ -1602,8 +1602,18 @@ input, select, textarea {
 			font-size: 1.25em;
 		}
 
+		.box.post p {
+			margin-top: 1.25em;
+			font-size: 1.25em;
+		}
+
 		.box footer ul.actions {
 			margin-bottom: 0;
+		}
+
+		.box p {
+			margin-top: 1.25em;
+			font-size: 1.25em;
 		}
 
 /* Button */
